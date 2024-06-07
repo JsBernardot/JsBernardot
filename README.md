@@ -1,4 +1,4 @@
-#** Salut 👋 Je suis Jason **
+# **Salut 👋 Je suis Jason**
 ### Developpeur Web Fullstack
 <!--
 **JsBernardot/JsBernardot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
