@@ -4,7 +4,8 @@
 Je suis actuellemnt à la recherche d'une alternance de développeur Web dans le secteur de Lyon.
 Dès septembre, j'intègre MyDigitalSchool afin de valider mon Bachelor de développeur Web (Bac+3) pour une durée de un an.
 
-- Basé à Lyon
+-  ![image](https://github.com/JsBernardot/JsBernardot/assets/123375400/4b5a74f6-429b-48e1-bcd5-54ebf22d4186)
+Basé à Lyon
 - Vous pouvez me contacter ici : jason.bernardot1@gmail.com
 - Actuellement diplomé d'un titre de développeur Web/Web mobile (Bac+2) 
 - J'envisage de valider le Bachelor (Bac+3) pour continuer avec le MBA Développeur Full-Stack (Bac+5) qui me permettrait de développer mes capacités et d'apprendre de nouvelles compétences.
