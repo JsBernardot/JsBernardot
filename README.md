@@ -2,6 +2,7 @@
 ### Developpeur Web Fullstack
 
 Je suis actuellemnt à la recherche d'une alternance de développeur Web dans le secteur de Lyon.
+
 Dès septembre, j'intègre MyDigitalSchool afin de valider mon Bachelor de développeur Web (Bac+3) pour une durée de un an.
 
 - Basé à Lyon
