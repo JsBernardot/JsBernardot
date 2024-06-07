@@ -10,7 +10,7 @@ Dès septembre, j'intègre MyDigitalSchool afin de valider mon Bachelor de déve
 - J'envisage de valider le Bachelor (Bac+3) pour continuer avec le MBA Développeur Full-Stack (Bac+5) qui me permettrait de développer mes capacités et d'apprendre de nouvelles compétences.
 
 - ![skills1](https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004)
-<img src="[drawing.jpg](https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004))" alt="drawing" width="200"/>
+<img src="https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004" alt="drawing" width="200"/>
 
 
 <!--
