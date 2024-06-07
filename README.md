@@ -8,7 +8,7 @@ Dès septembre, j'intègre MyDigitalSchool afin de valider mon Bachelor de déve
 - Vous pouvez me contacter ici : jason.bernardot1@gmail.com
 - Actuellement diplomé d'un titre de développeur Web/Web mobile (Bac+2) 
 - J'envisage de valider le Bachelor (Bac+3) pour continuer avec le MBA Développeur Full-Stack (Bac+5) qui me permettrait de développer mes capacités et d'apprendre de nouvelles compétences.
-- Je n'ai malheureusement pas de travaux à présenter car mes dépots sont privés dû au souhait des entreprises avec qui j'ai colaboré cependant vous pouvez retrouvé quelques idées de mon travail sur mon site.
+- Je n'ai malheureusement pas de travaux à présenter car mes dépots sont privés dû au souhait des entreprises avec qui j'ai colaboré, cependant vous pouvez retrouver quelques idées de mon travail sur mon site.
 
 
 **Compétences**  
@@ -23,17 +23,4 @@ Dès septembre, j'intègre MyDigitalSchool afin de valider mon Bachelor de déve
 <img src="https://github.com/JsBernardot/JsBernardot/assets/123375400/d63ea6ba-9168-4e96-b476-bf6add419263" alt="drawing" width="50"/>
 <img src="https://github.com/JsBernardot/JsBernardot/assets/123375400/1cef44d9-395d-44f4-9a09-220e03dcc209" alt="drawing" width="50"/>
 
-<!--
-**JsBernardot/JsBernardot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
