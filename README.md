@@ -6,9 +6,8 @@ Dès septembre, j'intègre MyDigitalSchool afin de valider mon Bachelor de déve
 
 - <img src="https://github.com/JsBernardot/JsBernardot/assets/123375400/e53286c0-ef12-4035-bd3e-6b6582b5ebe1" alt="drawing" width="15"/>  Basé à Lyon
 - <img src="https://github.com/JsBernardot/JsBernardot/assets/123375400/b3a916c3-b756-4fc0-abb0-759f8ebbd9b6" alt="drawing" width="15"/>  Vous pouvez me contacter ici : jason.bernardot1@gmail.com
-- Actuellement diplomé d'un titre de développeur Web/Web mobile (Bac+2) 
+- <img src="https://github.com/JsBernardot/JsBernardot/assets/123375400/5a8f8c14-0b0c-49eb-920f-c1089a97bf6c" alt="drawing" width="15"/> Actuellement diplomé d'un titre de développeur Web/Web mobile (Bac+2) 
 - J'envisage de valider le Bachelor (Bac+3) pour continuer avec le MBA Développeur Full-Stack (Bac+5) qui me permettrait de développer mes capacités et d'apprendre de nouvelles compétences.
-
 
 
 **Compétences**  
