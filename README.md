@@ -11,7 +11,15 @@ Dès septembre, j'intègre MyDigitalSchool afin de valider mon Bachelor de déve
 
 **Compétences**  
 <img src="https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004" alt="drawing" width="50"/>
-
+<img src="https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004(https://github.com/JsBernardot/JsBernardot/assets/123375400/eaa4e595-a287-4227-aa7e-0371e2ea25a6)" alt="drawing" width="50"/>
+<img src="[https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004](https://github.com/JsBernardot/JsBernardot/assets/123375400/eaa4e595-a287-4227-aa7e-0371e2ea25a6)" alt="drawing" width="50"/>
+<img src="[https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004](https://github.com/JsBernardot/JsBernardot/assets/123375400/eaa4e595-a287-4227-aa7e-0371e2ea25a6)" alt="drawing" width="50"/>
+<img src="[https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004](https://github.com/JsBernardot/JsBernardot/assets/123375400/eaa4e595-a287-4227-aa7e-0371e2ea25a6)" alt="drawing" width="50"/>
+<img src="[https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004](https://github.com/JsBernardot/JsBernardot/assets/123375400/eaa4e595-a287-4227-aa7e-0371e2ea25a6)" alt="drawing" width="50"/>
+<img src="[https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004](https://github.com/JsBernardot/JsBernardot/assets/123375400/eaa4e595-a287-4227-aa7e-0371e2ea25a6)" alt="drawing" width="50"/>
+<img src="[https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004](https://github.com/JsBernardot/JsBernardot/assets/123375400/eaa4e595-a287-4227-aa7e-0371e2ea25a6)" alt="drawing" width="50"/>
+<img src="[https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004](https://github.com/JsBernardot/JsBernardot/assets/123375400/eaa4e595-a287-4227-aa7e-0371e2ea25a6)" alt="drawing" width="50"/>
+<img src="[https://github.com/JsBernardot/JsBernardot/assets/123375400/96c3b9a6-d71c-40eb-b9ea-9fe9d8d24004](https://github.com/JsBernardot/JsBernardot/assets/123375400/eaa4e595-a287-4227-aa7e-0371e2ea25a6)" alt="drawing" width="50"/>
 
 <!--
 **JsBernardot/JsBernardot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
